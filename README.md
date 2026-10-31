@@ -1,6 +1,4 @@
-what how did it
 
 #ABOUT ME
 
-
-zxjljgugvj
+I am zxjljgugvj
