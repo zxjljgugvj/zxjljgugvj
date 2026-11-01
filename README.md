@@ -3,6 +3,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=zxjljgugvj&style=for-the-badge&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/zxjljgugvj?style=for-the-badge&logo=github)
 
+![Discord](https://discord.gg/PesawAs6ew)
+
+
 <img src="assets/banner.svg" width="100%" alt="Animated developer banner">
 
 </div>
