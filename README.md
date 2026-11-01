@@ -1,9 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm glib!
-
-### 🇺🇦 Developer from Ukraine | Розробник з України
-
 ![Profile views](https://komarev.com/ghpvc/?username=zxjljgugvj&style=for-the-badge&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/zxjljgugvj?style=for-the-badge&logo=github)
 
